@@ -1,1 +1,0 @@
-# danielbbeleza.github.io
