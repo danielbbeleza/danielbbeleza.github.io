@@ -2,7 +2,7 @@ title: Daniel Beleza
 logo: "images/logo.svg" # You can add own logo image.
 description: Daniel Beleza's personal blog
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.danielbeleza.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
