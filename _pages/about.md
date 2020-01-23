@@ -2,15 +2,25 @@
 layout: page
 title: About
 permalink: /about/
-image: images/01.jpg
+image:
 ---
 
-Hi, my name is Sasha Levi. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+The human being by nature enjoys to stay in its comfort zone, and if there are 2 things that fascinates me about technology and self-development. First: we keep evolving our technology to make our lives easier and longer. And second: everytime someone has a crazy idea, there will be some guys that will say: "It's impossible! You can't do it!"
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan.
+Previously, I helped to build the JUMIA Online Shopping app, where we were able to prove many people that e-commerce have a great potential in one of the poorest continents that exists, Africa.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
+It was at this time that I published my first article (Google Analytics with Tag Manager + Firebase) at a great Android Medium community that is ProAndroidDev.
 
-#### Industry Design & Media
+Before taking the leap into the mobile apps world, I took a licentiate degree in Mechanical Engineering, at "Universidade do Algarve". After having a small experience working in this field, I realized that it wouldn't fullfill me.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg.
+Today I keep growing as an Android Developer at Curve, one of the most exciting places to work that is based in London. As a startup I feel this is a lifetime opportunity to improve my technical skills and to work remotely (I know, I know... typical "millenial kid").
+
+Outside of work, I like to read - some good self-improvement and classic novel books - video games and tv shows. I love dogs (all my life had at least one), greatly admire Japanese culture and I'm a huge football fan (the great S.L.Benfica).
+
+But I'm more than this...
+
+I can be sure of what I already know, but I’ve also the humility to learn from other people/sources, and from their perspective. I believe that there is nothing we can't do if we fight for it with all our strengths and will.
+
+It's really important to me to love what I do everyday.
+
+I often ask to myself "What if there was no money in the world? What would I like to do?" For almost 3 years, my answer has been the same: "I would create something awesome to help people improve their lives".
