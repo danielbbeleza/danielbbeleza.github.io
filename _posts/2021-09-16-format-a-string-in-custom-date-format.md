@@ -53,6 +53,7 @@ val customDateFormatter = SimpleDateFormat("dd-MM-yyyy", Locale.getDefault())
 val formattedDate = customDateFormatter.format(parsedDate)
 ```
 
+
 ## 2 - Date format `dd MMMM`
 
 Using the same example, this is our use case for this similar but different problem:
@@ -72,6 +73,7 @@ val customDateFormatter = SimpleDateFormat("dd MMMM", Locale.getDefault()) // Th
 
 val formattedDate = customDateFormatter.format(parsedDate)
 ```
+
 
 ## Conclusion
 
