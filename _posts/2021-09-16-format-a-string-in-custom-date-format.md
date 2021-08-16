@@ -16,7 +16,7 @@ When receiving a UTC date string - e.g. `2021-05-21T00:00:00Z` - convert it to t
 
 Here's how I solved:
 
-## 1 - Date format `dd-MM-yyyy`
+## 1 - Date format: `dd-MM-yyyy`
 
 As an example, this is our use case
 
@@ -52,9 +52,9 @@ val customDateFormatter = SimpleDateFormat("dd-MM-yyyy", Locale.getDefault())
 
 val formattedDate = customDateFormatter.format(parsedDate)
 ```
+<br><br>
 
-
-## 2 - Date format `dd MMMM`
+## 2 - Date format: `dd MMMM`
 
 Using the same example, this is our use case for this similar but different problem:
 
@@ -63,6 +63,8 @@ WHEN, we parse the string,
 THEN, return `21 May` 
 
 This solution will be very similar to the previous one. The only thing that changes is the `SimpleDateFormat` first `String` parameter, that refers to our intended date pattern.
+
+### Solution
 
 ```
 val defaultDateFormatter = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()) 
@@ -73,7 +75,7 @@ val customDateFormatter = SimpleDateFormat("dd MMMM", Locale.getDefault()) // Th
 
 val formattedDate = customDateFormatter.format(parsedDate)
 ```
-
+<br><br>
 
 ## Conclusion
 
