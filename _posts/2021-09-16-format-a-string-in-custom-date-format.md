@@ -14,7 +14,7 @@ When receiving a UTC date string - e.g. `2021-05-21T00:00:00Z` - convert it to t
 1. `dd-MM-yyyy` - if date is from one of the past years
 2. `dd MMMM` (complete month name) - if date is from the current year
 
-Here's how I solved:
+Here's how I solved...
 
 ## 1 - Date format: `dd-MM-yyyy`
 
@@ -28,20 +28,19 @@ THEN, return `21-05-2021`
 ### Solution
 
 First, we need to parse the date and create an instance of `Date` so we can manipulate the data easier.
-
 ```
 val defaultDateFormatter = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()) 
 
 val parsedDate = defaultDateFormatter.parse(dateToParse)
 ```
+<br><br>
 
 Secondly, we need to format the parsed date already in `Date` type, by calling the `DateFormat.format(Date)` function.
-
 ```
 val customDateFormatter = SimpleDateFormat("dd-MM-yyyy", Locale.getDefault())
 val formattedDate = customDateFormatter.format(parsedDate)
 ```
-
+<br><br>
 Finally, grouping both steps this would be the final result:
 ```
 val defaultDateFormatter = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()) 
