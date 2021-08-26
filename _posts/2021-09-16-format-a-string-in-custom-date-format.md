@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Format a UTC date string into a custom date format"
-image: clocks.jpg
+image: images/clocks.jpg
 tags: DateFormat
 ---
 
