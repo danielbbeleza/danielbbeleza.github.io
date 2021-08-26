@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Format a UTC date string into a custom date format"
+image: clocks.jpg
+tags: DateFormat
 ---
 
 Recently I had ran into a task of converting a simple UTC date into a string with a custom format.

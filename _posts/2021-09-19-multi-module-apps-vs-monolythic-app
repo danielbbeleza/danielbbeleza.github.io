@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Pros and cons of multi-module apps"
+---
+
+## Introduction
+
+Unless you are a Android dev that was stuck in time and is still using `AsyncTasks`
+to make requests to an API, you have heard about multi-module apps for sure.
+
+The number of multi-module apps have been increasing every month, but we can 
+still see some devs having their doubts and asking themselves if this is the best approach
+for their app or not.
+
+In this article I'll share with you my research regarding this topic, explore
+the pros and cons (nothing is perfect in software development) and why you should 
+or not separate in different modules.
+
+
+## What Google say
+I wasn't able to find an entire page in Google official docs, where their 
+only focus was multi-module app. 
+
+There's always some other references, like "Hilt", "Dagger", "Feature Modules", etc...
+
+There is [one](https://developer.android.com/studio/build/optimize-your-build#create_libraries) though, that might be one of the most generic ones, that says:
+
+```
+Modularizing your code this way allows the build system to compile only the modules you modify and cache those outputs for future builds.
+```
+
+But now we could make another question. Is this still valid for a project with, let's say, 100 modules?
+
+
+

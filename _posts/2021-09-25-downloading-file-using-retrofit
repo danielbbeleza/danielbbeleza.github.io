@@ -1,0 +1,25 @@
+THOUGHTS: 
+- when we save a file we need to validate if it exists already
+- could consider to add custom logic to append to the file name
+- Media files database still contains reference to file, even when this
+is deleted directly from "Files"
+- create demo repository to do this
+
+## Introduction
+
+In this article I share my experience with downloading files in Android,
+using the most known network requests framework "Retrofit".
+
+At first, this can seem a bit overwhelming and if you are not completely
+comfortable working with byte streams, that's ok. I wasn't proeficient with
+this either and while learning this, it turned out to be easier than I thought.
+
+**Important Note:** For the sake of simplicity of this article, I'll assume
+that you already some experience with "Retrofit". If not, I'll leave the
+official documentation link [here](https://square.github.io/retrofit/).
+
+Let's proceed to the first step, that is...
+
+
+## Setup retrofit to download files
+
