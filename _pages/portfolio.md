@@ -7,7 +7,8 @@ image:
 <br>
 ### [Bíblia para Mim](https://play.google.com/store/apps/details?id=net.medicineone.bibliaparamimandroid&hl=pt)
 
-<img width="250" src="{{site.baseurl}}/images/biblia_para_mim.png">
+
+<img width="250" src="{{site.baseurl}}/images/biblia_para_mim.png"> | 
 
 Bible For Me" is an application designed to give you a very simple and enjoyable reading experience. Through it you have access to the most recent translation in modern language, performed by the Portuguese Bible Society, complemented by beautiful colored illustrations.
 <br>

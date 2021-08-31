@@ -2,7 +2,7 @@
 layout: post
 title: "4 lessons learnt the hard way in my first year as an Android Developer"
 date: 01-09-2021
-image: images/frustrated.jpg
+image: images/papers_trash.jpg
 ---
  
 ## Introduction
