@@ -19,6 +19,7 @@ But that story is for another time.
 Here are 5 things that I learned the hard way, in my first self-taught year as an Android developer.
 
 <br>
+<br>
 ## 1. Memorizing a programming language
 
 After reading a few "how to become an Android Developer" articles, I realised that I needed
@@ -36,17 +37,17 @@ what all functions did, all the existing frameworks, etc.
 At the time, I remember that my goal was to "memorize" Java in 6 months.
 
 What a facepalm I'm doing right now, while I remember this.
-
 <img src="https://media.giphy.com/media/d3YHKs8wwYfce0PS/giphy.gif" width="400" />
-
-I was sharing this with someone that was already a developer and he just game the best advice for this:
+I was sharing this with someone that was already a developer and he just gave me the best advice for this:
 <br>
-<cite>You can't simply memorize a dictionary. Just start solving small problems and creating small projects</cite>
+<br>
+<cite><strong>You can't simply memorize a dictionary. Just start solving small problems and creating small projects</strong></cite>
+<br>
 <br>
 That was what I did, and I have to say that it became really helpful. Frustration was now turning 
 into motivation because my energy was now being converted in something that I could play with.
 
-
+<br>
 <br>
 ## 2. Trying to learn everything alone
 
@@ -79,14 +80,18 @@ contract as an Android developer!
 
 So, if I could time travel and talk with my past-self, in the first days, I would say to him:
 
-<cite>Best thing you can do for yourself is to get a mentor</cite>
-
+<br>
+<br>
+<cite><strong>Best thing you can do for yourself is to get a mentor</strong></cite>
+<br>
+<br>
 This was not only a good thing in the early days, but later I got to work with amazing developers,
 that I consider my mentors also.
 
 Everytime I got guided by someone, it was the time I grew the most! Hands-down, the most relevant
 decision in my career.
 
+<br>
 <br>
 ## 3. Not learning basic CS concepts
 
@@ -98,6 +103,7 @@ as a freelancer and even after, in my first company.
 
 Having these foundations would 
 
+<br>
 <br>
 ## 4. Creating projects 
 
@@ -114,6 +120,8 @@ will make you search for topics, face problems and make questions, that while fo
 you wouldn't do.
 
 
+<br>
+<br>
 ## Conclusion
 
 I truly believe that consistency is one of the most important things to have if you want be a 
