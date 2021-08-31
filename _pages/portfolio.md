@@ -28,6 +28,4 @@ Some of the <strong>features</strong> of this app are:
 <br>
 Navigation between the texts included in each theme is done by tapping the underlined text and selecting the arrows for the next or previous text in the menu that appears at that time.
 
-<a href="https://play.google.com/store/apps/details?id=net.medicineone.bibliaparamimandroid&hl=en"> 
-	<img width="125" src="{{site.baseurl}}/images/google-play-badge-biblia-para-mim.png">
-</a>
+[<img width="125" src="{{site.baseurl}}/images/google-play-badge-biblia-para-mim.png">](https://play.google.com/store/apps/details?id=net.medicineone.bibliaparamimandroid&hl=en)
