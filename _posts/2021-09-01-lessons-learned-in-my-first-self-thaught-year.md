@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 lessons learnt in my first self-taught year as an Android Developer"
+title: "4 lessons learnt the hard way in my first year"
 date: 01-09-2021
 ---
  
