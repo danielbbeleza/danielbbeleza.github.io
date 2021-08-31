@@ -2,6 +2,7 @@
 layout: post
 title: "4 lessons learnt the hard way in my first year"
 date: 01-09-2021
+image: images/frustrated.jpg
 ---
  
 ## Introduction
@@ -17,7 +18,7 @@ But that story is for another time.
 
 Here are 5 things that I learned the hard way, in my first self-taught year as an Android developer.
 
-
+<br>
 ## 1. Memorizing a programming language
 
 After reading a few "how to become an Android Developer" articles, I realised that I needed
@@ -36,20 +37,17 @@ At the time, I remember that my goal was to "memorize" Java in 6 months.
 
 What a facepalm I'm doing right now, while I remember this.
 
-<br>
-<br>
 <img src="https://media.giphy.com/media/d3YHKs8wwYfce0PS/giphy.gif" width="400" />
 
-<br>
-
 I was sharing this with someone that was already a developer and he just game the best advice for this:
-
+<br>
 <cite>You can't simply memorize a dictionary. Just start solving small problems and creating small projects</cite>
-
+<br>
 That was what I did, and I have to say that it became really helpful. Frustration was now turning 
 into motivation because my energy was now being converted in something that I could play with.
 
 
+<br>
 ## 2. Trying to learn everything alone
 
 I'm the kind of person that prefers to learn things by myself, i.e., doing my own research to 
@@ -89,7 +87,7 @@ that I consider my mentors also.
 Everytime I got guided by someone, it was the time I grew the most! Hands-down, the most relevant
 decision in my career.
 
-
+<br>
 ## 3. Not learning basic CS concepts
 
 It took a while until I started to understand or even studying basic computer science and programming 
@@ -100,7 +98,7 @@ as a freelancer and even after, in my first company.
 
 Having these foundations would 
 
-
+<br>
 ## 4. Creating projects 
 
 Fortunately, the online classes I took were pretty decent (Udacity) and while learning Android
