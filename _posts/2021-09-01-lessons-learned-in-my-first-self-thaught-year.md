@@ -37,11 +37,13 @@ what all functions did, all the existing frameworks, etc.
 At the time, I remember that my goal was to "memorize" Java in 6 months.
 
 What a facepalm I'm doing right now, while I remember this.
+
 <img src="https://media.giphy.com/media/d3YHKs8wwYfce0PS/giphy.gif" width="400" />
+
 I was sharing this with someone that was already a developer and he just gave me the best advice for this:
 <br>
 <br>
-<cite><strong>You can't simply memorize a dictionary. Just start solving small problems and creating small projects</strong></cite>
+<cite><strong>"You can't simply memorize a dictionary. Just start solving small problems and creating small projects"</strong></cite>
 <br>
 <br>
 That was what I did, and I have to say that it became really helpful. Frustration was now turning 
@@ -80,11 +82,8 @@ contract as an Android developer!
 
 So, if I could time travel and talk with my past-self, in the first days, I would say to him:
 
-<br>
-<br>
-<cite><strong>Best thing you can do for yourself is to get a mentor</strong></cite>
-<br>
-<br>
+<cite><strong>"Best thing you can do for yourself is to get a mentor"</strong></cite>
+
 This was not only a good thing in the early days, but later I got to work with amazing developers,
 that I consider my mentors also.
 
